@@ -5,3 +5,4 @@ langchain_openai
 PyPDF2
 pdf2image
 poppler-utils
+python-multipart
